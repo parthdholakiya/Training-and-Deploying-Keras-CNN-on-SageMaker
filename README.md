@@ -50,10 +50,6 @@ To find the best hyperparameters for the model, you can use SageMaker's Automati
 
 This code was adapted from the following source: [Link to Source](https://aws.amazon.com/blogs/machine-learning/train-and-deploy-keras-models-with-tensorflow-and-apache-mxnet-on-amazon-sagemaker/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to the contributors of the original code and the AWS blog post mentioned above.
