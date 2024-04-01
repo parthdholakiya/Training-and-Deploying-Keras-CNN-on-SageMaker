@@ -10,10 +10,8 @@ Before you begin, ensure you have the following prerequisites installed:
 
 - Python 3.x
 - AWS Account
-- Boto3
 - TensorFlow
 - Keras
-- SageMaker Python SDK
 
 ## Steps to Train and Deploy the Model
 
